@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אי בי אי</string>
+    <string name="login_email_label">אמייל</string>
+    <string name="login_password_label">סיסמה</string>
+    <string name="logout_button">התנתק</string>
+</resources>
